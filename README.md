@@ -1,6 +1,8 @@
 # Detector_Data_ Analysis & Reporting_Web_App_Project:
 This project deals with new kinds of detector data, namely, motion detection data. The app mainly focus on displaying certain key graphs of the data and providing short blurbs describing the data and providing some analysis.
 
+![Detector analysis pic (2)](https://user-images.githubusercontent.com/71408369/115794028-418dc300-a39b-11eb-8da0-65251da610cc.png)
+
 ## Dataset
 3 motion detection data sets, each with their own format as follows:
 
