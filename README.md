@@ -6,7 +6,7 @@ This project deals with new kinds of detector data, namely, motion detection dat
 
 1. Detector 1: Each time this detector is triggered the detection is saved as a file with the date & time recorded as part of the file name. The dataset provided is an index file containing a list of all detection files' details. The size of each file is also included. Note that the files with sizes less than 50KB are false detection and should be removed.Detector 1 is in the form txt file. The columns of the dataset are as follows:
 
-  • size: the size, in bytes, of the detection file
+         • size: the size, in bytes, of the detection file
 
   • month: the month of detection
 
