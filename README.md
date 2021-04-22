@@ -33,5 +33,6 @@ Converted the datasets into data frames with a uniform format (data wrangling, d
 ## Application of Dash to create a dashboard from Plotly graphs and deployment on GCP
 
 1. Detector data was analyzed and Plotly was used to create dynamic charts. The complete analysis can be found in notebooks.
-2. Dash enabled us to view few selected Plotly graphs in a web page.
-3. Finally, Dash web page was Deployed on Google Cloud Platform (GCP).
+2. After data cleaning export it to new files csv format that our app will be able to use.
+3. Dash enabled us to view few selected Plotly graphs in a web page.
+4. Finally, Dash web page was Deployed on Google Cloud Platform (GCP).
